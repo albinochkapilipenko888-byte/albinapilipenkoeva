@@ -1,4 +1,4 @@
-date,category_id,category_title,is_sale_prohibition,year,cos_month,sin_month,cos_quarter,sin_quarter,unique_brand_count,revenue
+﻿date,category_id,category_title,is_sale_prohibition,year,cos_month,sin_month,cos_quarter,sin_quarter,unique_brand_count,revenue
 2018-01-01,1,Wine,0.0,2018,0.866,0.5,0,1,249.0,155801198.97999194
 2018-01-01,2,Champagne & Sparkling Wine,0.0,2018,0.866,0.5,0,1,86.0,218561833.819462
 2018-01-01,3,Whiskey,0.0,2018,0.866,0.5,0,1,80.0,584683276.3010123
